@@ -1,4 +1,4 @@
-package com.dream.scala
+package com.dream.scala.base
 
 import scala.collection.mutable.Map
 
@@ -14,9 +14,10 @@ object MapTest {
     map += (("address", "成都"))
     map.remove("name")
     println(map)
-    val m = Map(("", 1))
+    val m = Map(("ss", 1))
     println(m)
-
+    val age = m.getOrElse("age", 12)
+    println(age)
   }
 }
 

@@ -1,4 +1,4 @@
-package com.dream.scala
+package com.dream.scala.base
 
 import scala.collection.mutable.ArrayBuffer
 

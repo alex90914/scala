@@ -1,4 +1,4 @@
-package com.dream.scala
+package com.dream.scala.base
 
 class MethodFunTest2 {
 

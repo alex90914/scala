@@ -1,4 +1,4 @@
-package com.dream.scala
+package com.dream.scala.base
 
 class CalculateTest {
 
@@ -6,6 +6,6 @@ class CalculateTest {
 
 object CalculateTest {
   def main(args: Array[String]): Unit = {
-    
+
   }
 }

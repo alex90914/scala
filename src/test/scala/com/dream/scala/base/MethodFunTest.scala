@@ -1,4 +1,4 @@
-package com.dream.scala
+package com.dream.scala.base
 
 class MethodFunTest {
 
@@ -21,7 +21,7 @@ object MethodFunTest {
     multiply10Arr = arr.map(x => x * 10)
     println(multiply10Arr)
 
-
-
+    val list = List(12, 13, 16)
+    println(list)
   }
 }
